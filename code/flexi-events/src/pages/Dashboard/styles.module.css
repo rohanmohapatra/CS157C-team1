@@ -1,0 +1,12 @@
+.MuiBox-root {
+    position: absolute;
+    top: 5%;
+    bottom: 10%;
+    left: 5%;
+    right: 5%;
+    margin: 0;
+    padding: 0;
+    background-color: #DCDBE7;
+    height: 90%;
+    width: 90%;
+}

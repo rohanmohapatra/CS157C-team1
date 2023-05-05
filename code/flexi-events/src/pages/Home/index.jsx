@@ -23,8 +23,8 @@ function HomePage() {
                 </Grid>
                 <Grid item xs={12}>
                     <Box sx={{ display: 'flex', justifyContent: 'center', columnGap:'2vw'}}>
-                        <Button variant='contained'>Organizers</Button>
-                        <Button variant='contained'>Attendees</Button>
+                        <Button variant='contained'>Sign Up</Button>
+                        <Button variant='contained'>Login</Button>
                     </Box>
                 </Grid>
                 <Grid item xs={12}>

@@ -8,9 +8,10 @@ import {Button} from '@mui/material';
 function Event() {
 
   return (
-      <Button>
-        This is an Event Card
-      </Button>
+    <Box>
+      <Button>click me</Button>
+      <Typography variant='subtitle2'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo repellat eos facere nostrum veritatis sunt consectetur consequuntur natus eligendi quasi! Sunt beatae temporibus doloribus fugiat praesentium explicabo libero reiciendis molestias!</Typography>
+    </Box>
   )
 }
 

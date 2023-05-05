@@ -1,0 +1,41 @@
+[
+    {
+      "title": "NVIDIA GTC Keynote",
+      "start": "2023-05-05T14:30:00.000Z",
+      "end": "2023-05-05T15:30:00.000Z",
+      "desc": "Explore Breakthroughs in AI, Accelerated Computing, and Beyond at GTC",
+      "extendedProps": {
+        "event_info": {
+            "id": "0192833383",
+            "location": "virtual",
+            "link": "https://www.youtube.com/watch?list=TLGGimr4BQgCJiEwNTA1MjAyMw&v=DiGB5uAYKAg",
+            "speaker_name": "Jensen Huang",
+            "organizer_contact": {
+                "email": "GTC_registration@nvidia.com",
+                "phone_number": "+1-408-486-2000"
+            }
+        }
+      }
+    },
+    {
+      "title": "Lunch with Jane",
+      "start": "2023-05-06T17:00:00.000Z",
+      "end": "2023-05-06T18:00:00.000Z"
+    },
+    {
+      "title": "Phone call with Bob",
+      "start": "2023-05-07T19:00:00.000Z",
+      "end": "2023-05-07T19:30:00.000Z"
+    },
+    {
+      "title": "Presentation for investors",
+      "start": "2023-05-08T16:00:00.000Z",
+      "end": "2023-05-08T17:30:00.000Z"
+    },
+    {
+      "title": "Team building event",
+      "start": "2023-05-09T12:00:00.000Z",
+      "end": "2023-05-09T18:00:00.000Z"
+    }
+  ]
+  
