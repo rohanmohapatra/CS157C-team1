@@ -28,7 +28,7 @@ export class AuthRepository implements OnModuleInit, AuthInterface {
   }
 
   private async createOldPasswordColumn() {
-    const query = 'ALTER TABLE users ADD old_password text;';
+    const query = 'ALTER TABLE auth ADD old_password text;';
     try {
       const response = await this.cassandraService.client.execute(query);
       return response.wasApplied();
